@@ -9,11 +9,15 @@ Hao Sha, Hui Yun Lin, Shuxian Zhao, Tracy Kao
 
 
 
-The code for this project  includes code used in Unity as well as in Arduino.
+The code for this project includes code used in Unity as well as in Arduino.
+Due to file size limitations, this Github only contains the scripts for the Unity game. Other files can be made available upon request.
 
 
+A sample of the template microkarting game can be retrieved from:
+https://assetstore.unity.com/packages/templates/karting-microgame-150956#description
 
-The Unity File for the Karting Game is in the MyFirstGame file. The scripts for Input and Output are located in the Assets under the Kart Systems folder.
+
+The Unity File for the Karting Game is in the MyFirstGame folder. The scripts for Input and Output are located in the Assets under the Kart Systems folder.
 
 In particular, the new files we have written are:
 - Kart Output
